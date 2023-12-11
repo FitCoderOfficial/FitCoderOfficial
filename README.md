@@ -12,14 +12,16 @@ Welcome to my page! <br/>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-8DD6F9?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+  </br>
+
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-2088FF?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-1a73e8?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-007ACC?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-430098?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <p>
@@ -34,9 +36,10 @@ Welcome to my page! <br/>
   <img alt="OAuthlib & Social Auth" src="https://img.shields.io/badge/-OAuthlib-4285F4?style=flat-square&logo=oauth&logoColor=white" />
   <img alt="AWS Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Cloudflare DNS" src="https://img.shields.io/badge/-Cloudflare_F1E05A?style=flat-square&logo=cloudflare&logoColor=black" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=Amazon AWS&logoColor=white" />
+
+  </br>
   <img alt="git" src="https://img.shields.io/badge/-Git-FB542B?style=flat-square&logo=git&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-F9A03C?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-F7B93E?style=flat-square&logo=Notion&logoColor=white" />
@@ -62,7 +65,7 @@ Welcome to my page! <br/>
 <div >
   <h2>Languages used in my repos </h2>
   <p>
-    ![FitCoderOfficial GitHub stats](https://github-readme-stats.vercel.app/api?username=FitCoderOfficial&show_icons=true&theme=dracula&hide=stars,issues)
+    <!-- ![FitCoderOfficial GitHub stats](https://github-readme-stats.vercel.app/api?username=FitCoderOfficial&show_icons=true&theme=dracula&hide=stars,issues) -->
 
 
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitCoderOfficial&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
