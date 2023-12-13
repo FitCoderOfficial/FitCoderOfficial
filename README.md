@@ -42,15 +42,6 @@ Welcome to my page! <br/>
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-F7B93E?style=flat-square&logo=Notion&logoColor=white" />
 </p>
 
-<div >
-  <h3>Languages used in my repos </h3>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitCoderOfficial&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-</div>
-
-
-![ddorong's github stats](https://github-readme-stats.vercel.app/api?username=FitCoderOfficial&show_icons=true&theme=dracula&hide=stars,issues)
-
 <br />
 
 <h2> Where to find me </h2>
@@ -65,3 +56,14 @@ Welcome to my page! <br/>
     <img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" />
   </a> 
 </p>
+
+<br />
+
+<div >
+  <h2>Languages used in my repos </h2>
+  <p>
+![FitCoderOfficial github stats](https://github-readme-stats.vercel.app/api?username=FitCoderOfficial&show_icons=true&theme=dracula&hide=stars,issues)
+
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitCoderOfficial&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  </p>
+</div>
