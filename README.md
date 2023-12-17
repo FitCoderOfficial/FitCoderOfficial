@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my page! <br/>
-  I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <b>im SaeByeok, Backend Engineer</b>. <br />
+  I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <b>SaeByeok, Backend Engineer</b>. <br />
   Currently, I'm living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="20"/> <b> Seoul, Republic of Korea</b>.<br />
   I graduated from <img src="https://cdn-icons-png.flaticon.com/512/167/167707.png" width="20" /> <b>Woosuk University</b> with a master's degree.
 </p>
@@ -16,11 +16,25 @@ Welcome to my page! <br/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-2088FF?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-1a73e8?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-007ACC?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-5849BE?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-430098?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/-DRF-009688?style=flat-square&logo=django&logoColor=white" />
+</p>
+
+<p>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="AWS SES" src="https://img.shields.io/badge/-AWS_SES-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="OAuthlib & Social Auth" src="https://img.shields.io/badge/-OAuthlib-4285F4?style=flat-square&logo=oauth&logoColor=white" />
+  <img alt="AWS Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Cloudflare DNS" src="https://img.shields.io/badge/-Cloudflare_F1E05A?style=flat-square&logo=cloudflare&logoColor=black" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-FB542B?style=flat-square&logo=git&logoColor=white" />
@@ -34,7 +48,6 @@ Welcome to my page! <br/>
   <br />
 </div>
 
-<br/>
 
 ![ddorong's github stats](https://github-readme-stats.vercel.app/api?username=devseung2&show_icons=true&theme=dracula&hide=stars,issues) -->
 
